@@ -1,6 +1,6 @@
 # Rushil-Portfolio
 
-# Hi there, I'm Rushil Gupta
+# Hi there, I'm Rushil Gupta 👋
 
 ## About Me
 
@@ -44,34 +44,11 @@ Class X — **95%**
 
 ## Skills
 
-### Programming Languages
-
-* Python
-* C/C++
-* Java
-
-### AI/ML Libraries
-
-* OpenCV
-* NumPy
-
-### Backend / Database
-
-* Flask
-* Firebase
-* SQLite
-
-### Hardware / IoT
-
-* Arduino
-* Raspberry Pi
-
-### Tools / Platforms
-
-* Git
-* GitHub
-* Arduino IDE
-* Overleaf (LaTeX)
+* **Programming Languages:** Python, C/C++, Java
+* **AI/ML & Libraries:** OpenCV, NumPy
+* **Backend, APIs & Databases:** Flask, REST APIs, Firebase, SQLite
+* **Hardware/IoT:** Arduino, Raspberry Pi, IR Sensors
+* **Tools & Platforms:** Git, GitHub, Arduino IDE, Overleaf (LaTeX)
 
 ---
 
@@ -85,7 +62,7 @@ Class X — **95%**
 * Designing scalable architecture to support future agricultural deployment and additional crops.
 * Focused on improving farmer decision-making and reducing crop loss.
 
-**Tech Stack:** Python, OpenCV, NumPy, Flask, Firebase, SQLite
+**Tech Stack:** Python, OpenCV, NumPy, Flask, Firebase, SQLite, REST APIs
 
 ---
 
@@ -96,7 +73,7 @@ Class X — **95%**
 * Optimized robot movement across curves and intersections with improved path accuracy.
 * Participated in a robotics competition and gained practical experience in embedded systems.
 
-**Tech Stack:** Arduino, Embedded C, IR Sensors, DC Motors
+**Tech Stack:** Arduino, Embedded C,Arduino IDE
 
 ---
 
@@ -111,11 +88,12 @@ Class X — **95%**
 ## Interests
 
 * Artificial Intelligence
+* Computer Vision
+* Automation
 * Robotics
 * IoT
 * Drone Technology
-* Computer Vision
-* Automation
+
 
 ---
 
@@ -124,3 +102,4 @@ Class X — **95%**
 * 📧 Email: [rushilgupta706@gmail.com](mailto:rushilgupta706@gmail.com)
 * 🌐 GitHub: [shyguy-0706](https://github.com/shyguy-0706)
 * 💼 LinkedIn: [Rushil Gupta](https://www.linkedin.com/in/rushil-gupta-muj-aiml/)
+
