@@ -1,7 +1,5 @@
 # Rushil-Portfolio
 
-# Hi there, I'm Rushil Gupta 👋
-
 ## About Me
 
 I’m a Computer Science undergraduate passionate about **Artificial Intelligence, Robotics, IoT, and Automation**.
