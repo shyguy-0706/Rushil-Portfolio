@@ -14,7 +14,7 @@ I continuously explore emerging technologies and work on expanding both my techn
 
 ### Manipal University Jaipur *(Aug 2024 – Present)*
 
-**Bachelor of Technology in Computer Science**
+**Bachelor of Technology in Computer Science**  
 CGPA: **8.6/10**
 
 Relevant Coursework:
@@ -24,7 +24,6 @@ Relevant Coursework:
 * Machine Learning
 * Internet of Things (IoT)
 * Embedded Systems
-* Drone Technology
 
 ---
 
@@ -46,7 +45,6 @@ Class X — **95%**
 * **AI/ML & Libraries:** OpenCV, NumPy
 * **Backend, APIs & Databases:** Flask, REST APIs, Firebase, SQLite
 * **Hardware/IoT:** Arduino, Raspberry Pi, IR Sensors
-* **Tools & Platforms:** Git, GitHub, Arduino IDE, Overleaf (LaTeX)
 
 ---
 
@@ -71,14 +69,15 @@ Class X — **95%**
 * Optimized robot movement across curves and intersections with improved path accuracy.
 * Participated in a robotics competition and gained practical experience in embedded systems.
 
-**Tech Stack:** Arduino, Embedded C,Arduino IDE
+**Tech Stack:** Arduino, Embedded C, Arduino IDE
 
 ---
 
 ## Achievements
 
-* Built and competed with a **Line Following Robot** in a robotics competition.
-* Maintaining a strong academic record with a **CGPA of 8.6/10**.
+* Ranked 14th on the Kagglethon AI/ML competition leaderboard.
+* Built and competed with a Line Following Robot in a robotics competition.
+* Maintaining a strong academic record with a CGPA of 8.6/10.
 * Actively exploring AI, robotics, and drone technologies through self-driven learning and projects.
 
 ---
@@ -90,8 +89,6 @@ Class X — **95%**
 * Automation
 * Robotics
 * IoT
-* Drone Technology
-
 
 ---
 
